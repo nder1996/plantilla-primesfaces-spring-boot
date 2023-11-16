@@ -1,0 +1,9 @@
+com\ydurur\person\service\PersonService.class
+com\ydurur\person\model\Person.class
+com\ydurur\person\bean\PersonRegistrationBean.class
+com\ydurur\person\model\District.class
+com\ydurur\person\action\PersonRegistrationAction.class
+com\ydurur\person\service\PersonServiceImpl.class
+com\ydurur\person\PersonApplication.class
+com\ydurur\person\model\City.class
+com\ydurur\person\repository\PersonRepository.class
